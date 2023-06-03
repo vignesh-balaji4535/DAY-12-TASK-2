@@ -1,0 +1,75 @@
+i{
+    color: red;
+}
+label{
+    font-weight: 600;
+}
+
+.box{
+    border: 1px solid black;
+    margin: 10px;
+    height: 100%;
+    padding: 30px;
+}
+
+.name .nam1 .inp{
+    width: 250px;
+}
+
+.E-name .E-name1 .email{
+    width:525px
+}
+i{
+    color: red;
+}
+
+.rating .star{
+    color: rgb(239, 239, 6);
+}
+.radio .radioo span{
+    width: 20%;
+    justify-content: center;
+
+}
+.radio .radioo1 span{
+    width: 20%;
+    justify-content: center;
+}
+
+.radio .radioo1{
+    background-color: rgb(187, 186, 186);
+    border-radius: 5px;
+    padding: 5px ;
+
+}
+.radio .radioo2{
+    background-color: rgb(241, 239, 239);
+   
+    padding: 5px ;
+
+}
+.radio .radioo3{
+    background-color: rgb(187, 186, 186);
+    border-radius: 5px;
+    padding:5px ;
+
+}
+.radio .radioo2 span{
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+.radio .radioo3 span{
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+
+}
+textarea{
+    height: 100px;
+    width: 1090px;
+}
+button{
+    margin: 0 0 0 40px;
+    padding: 10px;
+}
